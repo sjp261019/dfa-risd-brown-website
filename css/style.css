@@ -76,7 +76,9 @@ b{
     overflow: hidden;
 }
 .masthead-img > img{
-    height: 100%;
+    width:100%;
+    height:100%;
+    object-fit: cover;
 }
 .button{
     margin-top: 16px;
